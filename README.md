@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Hoyos</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 💻 I prefer work like a back-end developer**
+- 💻 I prefer work like a **back-end developer**
 
 - 🌱 I’m currently learning **Henry Bootcamp**
 
